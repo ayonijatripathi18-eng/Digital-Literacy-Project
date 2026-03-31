@@ -1,0 +1,14 @@
+# Stay Safe Online – Cybercrime Prevention Checklist
+
+- Never share OTPs, PINs, or passwords with anyone, even if they claim to be from a bank.
+- Do not scan QR codes sent by unknown people to “receive” money.
+- Always verify calls or messages claiming urgency or threats.
+- Use strong, unique passwords for banking and email accounts.
+- Enable app locks and two-factor authentication on all financial apps.
+- Avoid clicking suspicious links received via SMS, email, or social media.
+- Regularly check bank statements and transaction alerts.
+- Log out from financial apps on shared or public devices.
+
+If you become a victim, report immediately:
+- National Cyber Crime Portal: https://cybercrime.gov.in
+- Cyber Crime Helpline: 1930
